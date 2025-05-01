@@ -16,4 +16,4 @@ Pure CSS (for simplicity) <br />
 
 ### Deployment
 
-Vercel:
+Vercel > https://nordhealth-nuxt.vercel.app/
